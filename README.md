@@ -26,4 +26,4 @@ Certifications
 
 ## 🌟 Why This Journey?
 
-My experience in social work taught me empathy, deep listening, and the importance of ethical, inclusive decision-making—qualities that are increasingly vital in AI. I believe AI should **amplify human good**, and I aim to bring this philosophy into every model I build.
+My experience in social work taught me empathy, deep listening, and the importance of ethical, inclusive decision-making qualities that are increasingly vital in AI. I believe AI should **amplify human good**, and I aim to bring this philosophy into every model I build.
