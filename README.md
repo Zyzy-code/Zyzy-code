@@ -9,9 +9,9 @@ Welcome to my career transition portfolio! I'm making the leap from a background
 - 💼 **Past:** Social Work (advocacy, communication, human-centered problem-solving)
 - 🚀 **Present:** Self-taught AI enthusiast building a strong foundation in Python, ML, NLP & LLMs
 Certifications
-- ✅ [ ] DeepLearning.AI — NLP Specialization *(in progress)*
-- ✅ [ ] Hugging Face Transformers Course *(in progress)*
-- ✅ [ ] Google AI/ML Professional Certificate *(planned)*
+- ✅ [ ] DeepLearning.AI — NLP Specialization 
+- ✅ [ ] Hugging Face Transformers Course 
+- ✅ [ ] Google AI/ML Professional Certificate 
 
 ---
 
